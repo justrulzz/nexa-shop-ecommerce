@@ -1,0 +1,37 @@
+.categories .category-item {
+  background-color: #f5f5f5;
+  flex: 1;
+  border-radius: 4px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.categories .category-item a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  height: 100%;
+  padding: 20px 10px;
+  text-align: center;
+  color: #333;
+}
+
+.categories .category-item .category-image {
+  width: 100%;
+  max-width: 150px;
+  object-fit: contain;
+  margin-bottom: 15px;
+  transition: transform ease 0.3s;
+}
+
+.categories .category-item:hover .category-image {
+  transform: scale(1.1);
+}
+
+.categories .category-title {
+  font-size: 15px;
+  font-weight: 600;
+  display: block;
+}

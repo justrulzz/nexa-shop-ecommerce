@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "name": "Analogue Resin Strap",
+    "price": {
+      "newPrice": 108.0,
+      "oldPrice": 165.0
+    },
+    "discount": 20,
+    "img": {
+      "singleImage": "img/products/product1/1.png",
+      "thumbs": ["img/products/product1/1.png", "img/products/product1/2.png"]
+    }
+  },
+  {
+    "id": 2,
+    "name": "Ridley High Waist",
+    "price": {
+      "newPrice": 100.0,
+      "oldPrice": 150.0
+    },
+    "discount": 33,
+    "img": {
+      "singleImage": "img/products/product2/1.png",
+      "thumbs": ["img/products/product2/1.png", "img/products/product2/2.png"]
+    }
+  },
+  {
+    "id": 3,
+    "name": "Blush Beanie",
+    "price": {
+      "newPrice": 15.0,
+      "oldPrice": 25.0
+    },
+    "discount": 40,
+    "img": {
+      "singleImage": "img/products/product3/1.png",
+      "thumbs": ["img/products/product3/1.png", "img/products/product3/2.png"]
+    }
+  },
+  {
+    "id": 4,
+    "name": "Cluse La Boheme Rose Gold",
+    "price": {
+      "newPrice": 45.0,
+      "oldPrice": 60.0
+    },
+    "discount": 25,
+    "img": {
+      "singleImage": "img/products/product4/1.png",
+      "thumbs": ["img/products/product4/1.png", "img/products/product4/2.png"]
+    }
+  },
+  {
+    "id": 5,
+    "name": "Mercury Tee",
+    "price": {
+      "newPrice": 68.0,
+      "oldPrice": 85.0
+    },
+    "discount": 20,
+    "img": {
+      "singleImage": "img/products/product5/1.png",
+      "thumbs": ["img/products/product5/1.png", "img/products/product5/2.png"]
+    }
+  }
+]
